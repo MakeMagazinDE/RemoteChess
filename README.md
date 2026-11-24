@@ -4,18 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Remote Chess
 
-## Erklärende Unterzeile (optional)
+**Nicht immer kann man sich für eine Partie Schach am selben Tisch treffen. Am Bildschirm oder gegen den Computer zu spielen, ist aber nicht dasselbe. In diesem Projekt vernetzen sich deshalb zwei selbstgebaute Schachbretter über das Internet, die jeden Handgriff erfassen und beim Gegner anzeigen. So spielt man mit echten Figuren, und per Videocall sieht man sich trotzdem.**
 
-**Vorspann aus dem Heft**
+![Aufmacherbild aus dem Heft](./doc/remoteChessGit.jpg)
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
-
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
-
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
-ISSUES UND WIKI DEAKTIVIEREN NICHT VERGESSEN.
+Hier findet ihr den MicroPython-Code, die Daten für die PWA sowie Platinenlayouts und CAD-Zeichnungen.
 
 Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
