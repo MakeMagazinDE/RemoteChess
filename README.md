@@ -10,6 +10,6 @@ Maker Media GmbH
 
 ![Aufmacherbild aus dem Heft](./doc/remoteChessGit.jpg)
 
-Hier findet ihr den MicroPython-Code, die Daten für die PWA sowie Platinenlayouts und CAD-Zeichnungen.
+Hier findet ihr den MicroPython-Code, die PWA sowie Platinenlayouts und CAD-Zeichnungen.
 
 Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
