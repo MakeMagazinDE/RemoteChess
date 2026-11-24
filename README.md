@@ -12,4 +12,4 @@ Maker Media GmbH
 
 Hier findet ihr den MicroPython-Code, die PWA sowie Platinenlayouts und CAD-Zeichnungen.
 
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 7/26](https://www.heise.de/select/make/2026/7)**.
